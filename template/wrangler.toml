@@ -7,4 +7,4 @@ assets = { directory = "node_modules/r2-explorer/dashboard", binding = "ASSETS",
 # Docs: https://r2explorer.dev/getting-started/add-r2-buckets/
 [[r2_buckets]]
 binding = "BUCKET"
-bucket_name = "bucket"
+bucket_name = "feople"
