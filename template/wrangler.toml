@@ -8,4 +8,4 @@ assets = { directory = "node_modules/r2-explorer/dashboard", binding = "ASSETS",
 [[r2_buckets]]
 binding = "feople"
 bucket_name = "feople"
-preview_bucket_name = feople'
+preview_bucket_name = "feople"
